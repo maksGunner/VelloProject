@@ -25,6 +25,10 @@
     height: 575px;
 }
 
+.h400{
+    height: 400px
+}
+
 .h150{
     height: 150px;
 }
@@ -51,16 +55,34 @@
 .hp40{
     height: 40%;
 }
+
 .hp30{
     height: 30%;
 }
+
+.hp25{
+    height: 25%
+}
+
 .hp20{
     height: 20%
+}
+
+.hp15{
+    height: 15%
+}
+
+.hp10{
+    height: 10%
 }
             
 
 .wp100{
     width: 100%
+}
+
+.wp60{
+    width: 60%
 }
 
 .wp50{
@@ -81,6 +103,10 @@
 
 .wp20{
     width: 20%
+}
+
+.pdg30{
+    padding: 30px
 }
 
 .pdg10{
