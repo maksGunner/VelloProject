@@ -117,4 +117,20 @@
     background: orange
 }
 
+/*pavlo 06.07.2018  12.23*/
 
+.bor{
+    border: 1px solid red;
+}
+.h2140{
+    height: 2140px;
+}
+.h200{
+    height: 200px;
+}
+.h40{
+    height: 40px;
+}
+.wp80{
+    width: 80%;
+}
